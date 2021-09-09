@@ -8,7 +8,7 @@ export default function Header() {
         <header className="header-background">
             <Link to="/" className="header-link">
                 <h1>
-                    『ch/みなみのぶすけ』　~STAND BY ME~
+                    『ch/ヘムヘムのチャミスル』　~STAND BY ME~
                 </h1>
             </Link>
             <Link to='https://twitter.com/home?lang=ja'><button>twitter</button></Link>

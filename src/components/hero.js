@@ -6,7 +6,7 @@ export default function Hero() {
     return (
         <div className="hero">
             <h1 className="hero-text">
-                Welcome to 『ch /みなみのぶすけ』 blog!<br />
+                Welcome to 『ch /ヘムヘムのチャミスル』 blog!<br />
                 Enjoy lots of posts.<br />
             </h1>
             <div className="hero-author">
